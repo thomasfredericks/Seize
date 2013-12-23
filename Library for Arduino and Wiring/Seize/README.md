@@ -1,0 +1,1 @@
+Please visit https://github.com/thomasfredericks/Seize-Arduino-Wiring for latest code and documentation.
