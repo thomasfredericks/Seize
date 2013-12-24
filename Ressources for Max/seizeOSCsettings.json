@@ -1,0 +1,55 @@
+{
+	"pattrstorage" : 	{
+		"name" : "seizeOSCsettings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"file" : [ 0 ],
+					"routing::u131000021" : [ -1 ],
+					"routing::fromAddr[0]" : [ "/0" ],
+					"routing::fromAddr[10]" : [ "/10" ],
+					"routing::fromAddr[11]" : [ "/11" ],
+					"routing::fromAddr[12]" : [ "/12" ],
+					"routing::fromAddr[13]" : [ "/13" ],
+					"routing::fromAddr[14]" : [ "/14" ],
+					"routing::fromAddr[15]" : [ "/15" ],
+					"routing::fromAddr[1]" : [ "/1" ],
+					"routing::fromAddr[2]" : [ "/2" ],
+					"routing::fromAddr[3]" : [ "/3" ],
+					"routing::fromAddr[4]" : [ "/4" ],
+					"routing::fromAddr[5]" : [ "/5" ],
+					"routing::fromAddr[6]" : [ "/6" ],
+					"routing::fromAddr[7]" : [ "/7" ],
+					"routing::fromAddr[8]" : [ "/8" ],
+					"routing::fromAddr[9]" : [ "/9" ],
+					"routing::toAddr[0]" : [ "/0" ],
+					"routing::toAddr[10]" : [ "/10" ],
+					"routing::toAddr[11]" : [ "/11" ],
+					"routing::toAddr[12]" : [ "/12" ],
+					"routing::toAddr[13]" : [ "/13" ],
+					"routing::toAddr[14]" : [ "/14" ],
+					"routing::toAddr[15]" : [ "/15" ],
+					"routing::toAddr[1]" : [ "/1" ],
+					"routing::toAddr[2]" : [ "/2" ],
+					"routing::toAddr[3]" : [ "/3" ],
+					"routing::toAddr[4]" : [ "/4" ],
+					"routing::toAddr[5]" : [ "/5" ],
+					"routing::toAddr[6]" : [ "/6" ],
+					"routing::toAddr[7]" : [ "/7" ],
+					"routing::toAddr[8]" : [ "/8" ],
+					"routing::toAddr[9]" : [ "/9" ],
+					"routing::serial::port" : [ "COM9" ],
+					"routing::serial::baud" : [ 57600 ],
+					"routing::osc::inport" : [ 6161 ],
+					"routing::osc::outport" : [ 1616 ],
+					"routing::osc::outhost" : [ "localhost" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
